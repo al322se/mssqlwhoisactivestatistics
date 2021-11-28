@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "ConnectionString": "Data Source=localhost;Initial Catalog=Test;Persist Security Info=True;User ID=sa;Password=somesecurepassword",
+    "DelayTimespan":"00:00:10",
+    "DbName":"DbResults"
+  }
+
+}
